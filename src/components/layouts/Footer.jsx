@@ -18,16 +18,16 @@ const Footer = () => {
               </ul>
               <ul>
                   <li><FooterHead fText={"Navigation"} /></li>
-                  <li className='footerP mt-3.5'>- Home</li>
-                  <li className='footerP'>- About</li>
-                  <li className='footerP'>- Services</li>
-                  <li className='footerP'>- Work</li>
-                  <li className='footerP'>- Contact</li>
+                  <li className='footerP mt-3.5'><a href="#">- Home</a></li>
+                  <li className='footerP mt-3.5'><a href="#">- About</a></li>
+                  <li className='footerP mt-3.5'><a href="#">- Services</a></li>
+                  <li className='footerP mt-3.5'><a href="#">- Work</a></li>
+                  <li className='footerP mt-3.5'><a href="#">- Contact</a></li>
               </ul>
               <ul>
                   <li><FooterHead fText={"Navigation"} /></li>
-                  <li className='footerP mt-3.5'>- Terms of Use</li>
-                  <li className='footerP'>- Privacy Policy</li>
+                  <li className='footerP mt-3.5'><a href="#">- Terms of Use</a></li>
+                  <li className='footerP mt-3.5'><a href="#">- Privacy Policy</a></li>
               </ul>
               <ul>
                   <li><FooterHead fText={"Navigation"} /></li>
