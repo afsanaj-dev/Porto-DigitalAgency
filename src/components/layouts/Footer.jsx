@@ -19,15 +19,15 @@ const Footer = () => {
               <ul>
                   <li><FooterHead fText={"Navigation"} /></li>
                   <li className='footerP mt-3.5'><a href="#">- Home</a></li>
-                  <li className='footerP mt-3.5'><a href="#">- About</a></li>
-                  <li className='footerP mt-3.5'><a href="#">- Services</a></li>
-                  <li className='footerP mt-3.5'><a href="#">- Work</a></li>
-                  <li className='footerP mt-3.5'><a href="#">- Contact</a></li>
+                  <li className='footerP '><a href="#">- About</a></li>
+                  <li className='footerP '><a href="#">- Services</a></li>
+                  <li className='footerP '><a href="#">- Work</a></li>
+                  <li className='footerP '><a href="#">- Contact</a></li>
               </ul>
               <ul>
                   <li><FooterHead fText={"Navigation"} /></li>
                   <li className='footerP mt-3.5'><a href="#">- Terms of Use</a></li>
-                  <li className='footerP mt-3.5'><a href="#">- Privacy Policy</a></li>
+                  <li className='footerP '><a href="#">- Privacy Policy</a></li>
               </ul>
               <ul>
                   <li><FooterHead fText={"Navigation"} /></li>
